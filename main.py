@@ -4,7 +4,7 @@ import joblib as jl
 import pandas as pd
 import streamlit as st
 
-st.header("Development and validation of an interpretable machine learning scoring tool for estimating early death among patients with bone metastasis: a retrospective, population-based cohort study")
+st.header("Prediction of early death among bone metastasis patients: development and validation using machine learning based on 118,227 patients from the SEER database")
 st.sidebar.title("Parameters Selection Panel")
 st.sidebar.markdown("Picking up parameters")
 
